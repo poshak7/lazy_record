@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add horizontal Mosaic3 augmentation (#6898)
