@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add distance calculation feature in vision-eye (#8616)
