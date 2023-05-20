@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
