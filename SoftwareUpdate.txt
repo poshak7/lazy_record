@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
