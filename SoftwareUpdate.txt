@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+docs: update view-results-in-terminal.md (#66)
