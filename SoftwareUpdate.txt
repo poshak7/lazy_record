@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Retry once for Docker CI failures (#8164)
