@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add visuals in guides/distance-calculation.md (#7876)
