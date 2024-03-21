@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix bbox2segment converter (#7814)
