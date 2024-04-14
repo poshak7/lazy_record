@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add YOLOv8 LibTorch C++ inference example (#7090)
