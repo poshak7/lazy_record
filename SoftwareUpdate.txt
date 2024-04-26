@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+docs: update view-results-in-terminal.md (#66)
