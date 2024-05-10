@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Optimize function calls to method calls (#8507)
