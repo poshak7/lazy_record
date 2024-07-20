@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
