@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
