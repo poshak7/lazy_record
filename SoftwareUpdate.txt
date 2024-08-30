@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Replacing Images for torchscript.md (#8596)
